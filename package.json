@@ -1,0 +1,22 @@
+{
+  "name": "lapor-sarpra-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "yusufwib_",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "chai": "^4.2.0",
+    "express": "^4.16.4",
+    "mocha": "^6.1.4",
+    "pg": "^7.9.0",
+    "sinon": "^7.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
